@@ -1,2 +1,9 @@
 # project-euler-haskell
 My solutions for [Project Euler](https://projecteuler.net/) written in Haskell.
+
+## Answers
+* Problem 001:  233168
+* Problem 002:  4613732
+* Problem 003:  6857
+* Problem 004:  906609
+* Problem 005:  232792560
