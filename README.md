@@ -7,3 +7,4 @@ My solutions for [Project Euler](https://projecteuler.net/) written in Haskell.
 * Problem 003:  6857
 * Problem 004:  906609
 * Problem 005:  232792560
+* Problem 006:  25164150
