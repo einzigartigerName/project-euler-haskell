@@ -9,7 +9,7 @@ main = putStrLn $ show (solution 100)
 solution n = (sumSq n) - (sqSum n)
 
 -- square numbers from 1 to n and add them up
-sqSum n = foldl (\acc x -> acc + (x * x)) 0 [1..n]
+sqSum n = sum (map (^2) [1..n])
 
 -- add numbers from 1 to n and then squre it
 sumSq n = (sum [1..n])^2
