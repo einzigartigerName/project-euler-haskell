@@ -18,3 +18,4 @@ My solutions for [Project Euler](https://projecteuler.net/) written in Haskell.
 * Problem 014:  837799
 * Problem 015:  137846528820
 * Problem 016:  1366
+* Problem 017:  21124
