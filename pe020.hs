@@ -1,5 +1,5 @@
 {-
-    Solution for Project Euler Problem 19
+    Solution for Project Euler Problem 20
     Find the sum of the digits in the number 100!
 -}
 
