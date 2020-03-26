@@ -23,3 +23,4 @@ My solutions for [Project Euler](https://projecteuler.net/) written in Haskell.
 * Problem 019:  171
 * Problem 020:  648
 * Problem 021:  31626
+* Problem 022:  871198282
